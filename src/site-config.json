@@ -1,0 +1,588 @@
+{
+  "business": {
+    "name": "JAM Excavating Services, Inc. - WBE -Excavation Services",
+    "phone": "+13177466320",
+    "category": "excavation contractor",
+    "city": "Indianapolis",
+    "state": "IN"
+  },
+  "design": {
+    "preset": {
+      "id": "roofing-dark-premium",
+      "categoryGroup": "roofing",
+      "name": "Dark Premium",
+      "recipeFile": "roofing/dark-premium.astro",
+      "colors": {
+        "primary": "#FF6B35",
+        "primaryDark": "#E05A2B",
+        "primaryLight": "#FFD4C2",
+        "secondary": "#2A2A2A",
+        "accent": "#FF8C5A",
+        "background": "#1A1A1A",
+        "backgroundAlt": "#111111",
+        "surface": "#2A2A2A",
+        "text": "#F5F5F5",
+        "textLight": "#A0A0A0",
+        "textOnDark": "#FFFFFF",
+        "border": "#3A3A3A"
+      },
+      "typography": {
+        "headingFont": "Space Grotesk",
+        "headingWeight": "700",
+        "bodyFont": "Inter",
+        "bodyWeight": "400",
+        "headingStyle": "normal",
+        "scale": "1.2"
+      },
+      "shape": {
+        "borderRadius": "6px",
+        "buttonRadius": "6px",
+        "cardRadius": "10px",
+        "shadowStyle": "glow"
+      },
+      "sections": {
+        "heroStyle": "dark",
+        "sectionAlternation": [
+          "dark",
+          "surface",
+          "dark",
+          "surface",
+          "dark"
+        ],
+        "animationStyle": "fade",
+        "spacingScale": "balanced"
+      }
+    },
+    "recipeId": "roofing/dark-premium"
+  },
+  "content": {
+    "homepage": {
+      "heroHeadline": "Indianapolis Excavation Experts",
+      "heroSubline": "JAM Excavating: Delivering reliable excavation services across Central Indiana. WBE certified and ready for your project.",
+      "aboutTitle": "Excavation Solutions, Built on Experience",
+      "aboutText": [
+        "JAM Excavating Services, Inc. started with a single backhoe and a commitment to doing things right. Founded in Indianapolis, we've grown into a trusted name for excavation, site preparation, and underground utilities. We're a Women's Business Enterprise (WBE), proudly serving the Indianapolis metro area.",
+        "Our approach is simple: understand the project, plan meticulously, and execute flawlessly. We invest in the right equipment and, more importantly, the right people. We're not just moving dirt; we're building foundations for homes, businesses, and infrastructure.",
+        "We're deeply rooted in the Indianapolis community. We understand the unique challenges of Marion County soil and the importance of responsible development. We partner with local organizations and prioritize sustainable practices in every project we undertake."
+      ],
+      "valueProps": [
+        {
+          "title": "Expertise",
+          "description": "Years of experience navigating Indianapolis' unique soil conditions and construction requirements."
+        },
+        {
+          "title": "Reliability",
+          "description": "We deliver on our promises, on time and within budget. Count on us to get the job done right."
+        },
+        {
+          "title": "Safety",
+          "description": "Safety is our top priority. We maintain rigorous safety standards on every job site."
+        },
+        {
+          "title": "WBE Certified",
+          "description": "Supporting diversity and inclusion through certified Women's Business Enterprise leadership."
+        }
+      ],
+      "ctaHeadline": "Ready to Start Your Project?",
+      "ctaSubline": "Contact JAM Excavating for a free consultation and estimate. Let's discuss your excavation needs."
+    },
+    "services": [
+      {
+        "slug": "site-preparation",
+        "name": "Site Preparation",
+        "shortDescription": "Comprehensive site preparation services for residential and commercial projects in Indianapolis.",
+        "description": "Proper site preparation is the bedrock of any successful construction project. JAM Excavating provides complete site preparation services, tailored to the specific challenges of Indianapolis terrain. This includes clearing vegetation, topsoil removal, grading, compaction, and erosion control. We understand the importance of addressing Marion County's clay soil issues and ensuring a stable foundation for your building. Our team utilizes advanced equipment and techniques to prepare your site efficiently and effectively, minimizing delays and maximizing your project's potential. We handle everything from small residential lots to large commercial developments, adhering to all local regulations and environmental standards.\n\nWe also handle demolition, including tear-down of existing structures and removal of concrete, asphalt, and other debris. Our experienced operators ensure safe and efficient demolition, minimizing disruption to the surrounding area. Site preparation is more than just moving dirt; it's about creating a solid foundation for the future, and JAM Excavating is committed to providing the highest quality site preparation services in Indianapolis.",
+        "process": [
+          "Step 1: Site assessment and planning.",
+          "Step 2: Clearing and grubbing.",
+          "Step 3: Grading and compaction.",
+          "Step 4: Erosion control measures."
+        ],
+        "benefits": [
+          "Stable foundation for your project",
+          "Reduced risk of soil settlement",
+          "Improved drainage and erosion control",
+          "Compliance with local regulations"
+        ],
+        "faq": [
+          {
+            "question": "What's included in site preparation?",
+            "answer": "Site preparation includes clearing, grubbing, topsoil removal, grading, compaction, and erosion control to ensure a stable foundation for construction."
+          },
+          {
+            "question": "Why is site preparation important?",
+            "answer": "Proper site preparation prevents soil settlement, ensures proper drainage, and complies with local regulations, safeguarding your project's longevity."
+          },
+          {
+            "question": "Do you handle demolition?",
+            "answer": "Yes, we offer demolition services, including removal of existing structures and debris, ensuring a clean slate for your new construction."
+          }
+        ]
+      },
+      {
+        "slug": "excavation-and-grading",
+        "name": "Excavation & Grading",
+        "shortDescription": "Precision excavation and grading services for foundations, basements, and drainage systems.",
+        "description": "JAM Excavating delivers expert excavation and grading services for a variety of projects throughout Indianapolis. From digging foundations and basements to creating proper drainage systems, we have the equipment and experience to handle any excavation challenge. We understand the nuances of working with Indianapolis' clay-rich soil and implement strategies to ensure stability and prevent water damage. Our skilled operators utilize GPS-guided equipment for precise grading, ensuring proper elevations and slopes for optimal drainage. Whether you're building a new home in Fishers, expanding a commercial property in Carmel, or upgrading your drainage in Noblesville, we're committed to providing efficient and reliable excavation services. \n\n We also offer specialized excavation services for underground utilities, including water lines, sewer lines, and electrical conduits. We coordinate closely with utility companies to ensure safe and accurate installations. Our commitment to safety and precision makes us the preferred choice for excavation and grading projects in the Indianapolis area.",
+        "process": [
+          "Step 1: Project planning and site layout.",
+          "Step 2: Excavation to required depths.",
+          "Step 3: Grading and compaction.",
+          "Step 4: Quality control and inspection."
+        ],
+        "benefits": [
+          "Precise excavation and grading",
+          "Proper drainage and erosion control",
+          "Stable foundation for your project",
+          "Safe and efficient operations"
+        ],
+        "faq": [
+          {
+            "question": "What types of excavation do you handle?",
+            "answer": "We handle a wide range of excavation projects, including foundations, basements, drainage systems, and underground utilities."
+          },
+          {
+            "question": "How do you ensure accurate grading?",
+            "answer": "We use GPS-guided equipment and experienced operators to ensure precise grading and proper elevations for optimal drainage."
+          },
+          {
+            "question": "Do you handle underground utilities?",
+            "answer": "Yes, we offer specialized excavation services for underground utilities, coordinating closely with utility companies for safe and accurate installations."
+          }
+        ]
+      },
+      {
+        "slug": "drainage-solutions",
+        "name": "Drainage Solutions",
+        "shortDescription": "Effective drainage solutions to protect your property from water damage in Indianapolis.",
+        "description": "Indianapolis' climate, with its heavy rainfall and freeze-thaw cycles, can wreak havoc on foundations and landscaping. JAM Excavating offers comprehensive drainage solutions to protect your property from water damage. We diagnose drainage problems and design custom systems to effectively manage stormwater runoff. Our services include installing French drains, culverts, swales, and catch basins. We understand the importance of proper drainage in preventing basement flooding, soil erosion, and foundation damage. We assess your property's unique drainage needs and recommend the most effective and cost-efficient solutions. \n\nWhether you're experiencing water pooling in your yard, basement leaks, or erosion problems, JAM Excavating can help. We use high-quality materials and proven techniques to ensure long-lasting drainage solutions. Protect your investment and prevent costly repairs with our expert drainage services.",
+        "process": [
+          "Step 1: Site inspection and problem diagnosis.",
+          "Step 2: Drainage system design.",
+          "Step 3: Installation of drainage components.",
+          "Step 4: Testing and quality assurance."
+        ],
+        "benefits": [
+          "Protection from water damage",
+          "Prevention of basement flooding",
+          "Erosion control and soil stabilization",
+          "Improved property value"
+        ],
+        "faq": [
+          {
+            "question": "What are the signs of poor drainage?",
+            "answer": "Signs of poor drainage include water pooling in your yard, basement leaks, soil erosion, and foundation cracks."
+          },
+          {
+            "question": "What types of drainage solutions do you offer?",
+            "answer": "We offer a variety of drainage solutions, including French drains, culverts, swales, and catch basins, tailored to your property's needs."
+          },
+          {
+            "question": "How can drainage solutions protect my property?",
+            "answer": "Proper drainage solutions prevent water damage, basement flooding, soil erosion, and foundation damage, safeguarding your investment."
+          }
+        ]
+      },
+      {
+        "slug": "pond-excavation",
+        "name": "Pond Excavation",
+        "shortDescription": "Expert pond excavation services for recreational, agricultural, and stormwater management purposes.",
+        "description": "JAM Excavating provides professional pond excavation services for a variety of purposes, including recreational ponds, agricultural ponds, and stormwater management ponds. We have the expertise and equipment to excavate ponds of any size and shape, ensuring proper depth, slope, and drainage. We understand the importance of pond design in creating a functional and aesthetically pleasing water feature. Our team works closely with you to understand your specific needs and create a pond that meets your expectations. \n\nWe also handle pond maintenance and repair, including dredging, cleaning, and erosion control. Whether you're looking to create a new pond or maintain an existing one, JAM Excavating is your trusted partner. We comply with all local environmental regulations and prioritize responsible water management practices.",
+        "process": [
+          "Step 1: Site evaluation and pond design.",
+          "Step 2: Excavation and shaping of the pond.",
+          "Step 3: Installation of drainage and liner systems.",
+          "Step 4: Final grading and landscaping."
+        ],
+        "benefits": [
+          "Custom pond design",
+          "Proper depth and drainage",
+          "Aesthetically pleasing water feature",
+          "Compliance with environmental regulations"
+        ],
+        "faq": [
+          {
+            "question": "What factors should I consider when designing a pond?",
+            "answer": "Consider the size, shape, depth, drainage, and intended use of the pond when designing it."
+          },
+          {
+            "question": "Do you handle pond maintenance?",
+            "answer": "Yes, we offer pond maintenance and repair services, including dredging, cleaning, and erosion control."
+          },
+          {
+            "question": "What environmental regulations apply to pond excavation?",
+            "answer": "Pond excavation is subject to local environmental regulations regarding water management, erosion control, and wetland protection."
+          }
+        ]
+      },
+      {
+        "slug": "basement-excavation",
+        "name": "Basement Excavation",
+        "shortDescription": "Reliable basement excavation services for new construction and home additions in Indianapolis.",
+        "description": "Expanding your living space with a basement addition? JAM Excavating provides reliable basement excavation services for new construction and home additions throughout Indianapolis. We understand the challenges of excavating basements in Marion County's soil conditions and implement strategies to ensure a stable and dry foundation. Our experienced operators utilize specialized equipment to excavate basements efficiently and safely, minimizing disruption to your property. We also handle foundation waterproofing and drainage to prevent water damage and ensure a comfortable living space. \n\nWhether you're building a new home in Broad Ripple or adding a basement to your existing home in Meridian-Kessler, JAM Excavating is your trusted partner for basement excavation. We adhere to all local building codes and safety regulations.",
+        "process": [
+          "Step 1: Site layout and marking.",
+          "Step 2: Excavation to required depth.",
+          "Step 3: Foundation preparation.",
+          "Step 4: Backfilling and compaction."
+        ],
+        "benefits": [
+          "Stable and dry basement foundation",
+          "Efficient and safe excavation",
+          "Foundation waterproofing and drainage",
+          "Compliance with building codes"
+        ],
+        "faq": [
+          {
+            "question": "What are the key considerations for basement excavation?",
+            "answer": "Key considerations include soil conditions, water table level, foundation design, and building codes."
+          },
+          {
+            "question": "Do you handle foundation waterproofing?",
+            "answer": "Yes, we offer foundation waterproofing services to prevent water damage and ensure a dry basement."
+          },
+          {
+            "question": "What building codes apply to basement excavation?",
+            "answer": "Basement excavation is subject to local building codes regarding foundation design, excavation depth, and safety regulations."
+          }
+        ]
+      },
+      {
+        "slug": "underground-utilities",
+        "name": "Underground Utilities",
+        "shortDescription": "Safe and efficient excavation for underground utilities, including water, sewer, and gas lines.",
+        "description": "JAM Excavating specializes in the safe and efficient excavation of underground utilities, including water lines, sewer lines, gas lines, and electrical conduits. We understand the importance of precision and safety when working with underground infrastructure. Our experienced team utilizes specialized equipment and techniques to minimize disruption to existing utilities and ensure accurate installations. We coordinate closely with utility companies to locate and identify existing lines before excavation begins. \n\nWe adhere to all safety regulations and protocols to prevent damage to utilities and ensure the safety of our workers and the public. Whether you're installing new utilities or repairing existing ones, JAM Excavating is your trusted partner for underground utility excavation.",
+        "process": [
+          "Step 1: Utility location and marking.",
+          "Step 2: Excavation to required depth.",
+          "Step 3: Utility installation or repair.",
+          "Step 4: Backfilling and compaction."
+        ],
+        "benefits": [
+          "Safe and efficient excavation",
+          "Coordination with utility companies",
+          "Minimization of disruption",
+          "Compliance with safety regulations"
+        ],
+        "faq": [
+          {
+            "question": "How do you locate underground utilities?",
+            "answer": "We coordinate with utility companies to locate and mark existing underground utilities before excavation begins."
+          },
+          {
+            "question": "What safety precautions do you take?",
+            "answer": "We adhere to all safety regulations and protocols to prevent damage to utilities and ensure the safety of our workers and the public."
+          },
+          {
+            "question": "Do you handle utility repairs?",
+            "answer": "Yes, we offer excavation services for utility repairs, working closely with utility companies to restore service quickly and safely."
+          }
+        ]
+      },
+      {
+        "slug": "land-clearing",
+        "name": "Land Clearing",
+        "shortDescription": "Comprehensive land clearing services to prepare your site for construction or development.",
+        "description": "JAM Excavating provides comprehensive land clearing services to prepare your site for construction or development. We handle everything from tree removal and brush clearing to demolition and debris removal. Our experienced team utilizes specialized equipment and techniques to clear your land efficiently and safely, minimizing environmental impact. We understand the importance of responsible land clearing practices and adhere to all local regulations and environmental standards. \n\nWhether you're clearing a small residential lot or a large commercial property, JAM Excavating is your trusted partner for land clearing services. We ensure a clean and level site, ready for construction to begin.",
+        "process": [
+          "Step 1: Site assessment and planning.",
+          "Step 2: Tree removal and brush clearing.",
+          "Step 3: Demolition and debris removal.",
+          "Step 4: Final grading and site preparation."
+        ],
+        "benefits": [
+          "Efficient and safe land clearing",
+          "Responsible environmental practices",
+          "Clean and level site",
+          "Compliance with local regulations"
+        ],
+        "faq": [
+          {
+            "question": "What's included in land clearing services?",
+            "answer": "Land clearing includes tree removal, brush clearing, demolition, debris removal, and final grading."
+          },
+          {
+            "question": "How do you minimize environmental impact?",
+            "answer": "We use responsible land clearing practices and adhere to all local regulations and environmental standards."
+          },
+          {
+            "question": "Do you handle demolition?",
+            "answer": "Yes, we offer demolition services as part of our land clearing package."
+          }
+        ]
+      }
+    ],
+    "serviceAreas": [
+      {
+        "city": "Carmel",
+        "slug": "carmel-in",
+        "state": "IN",
+        "content": "JAM Excavating Services, Inc. - WBE is proud to offer comprehensive excavation services to the residents and businesses of Carmel, Indiana. We understand the unique needs of this thriving community, from its upscale residential developments to its bustling commercial areas. Our team has extensive experience working in Carmel, navigating the local regulations and ensuring projects are completed efficiently and to the highest standards.\n\nWe're equipped to handle a wide range of excavation projects in Carmel, including site preparation for new construction, foundation digging, drainage solutions, and utility trenching. We understand the challenges posed by Indiana's climate, including the cold winters with snow and ice, and we take the necessary precautions to ensure the stability and longevity of our work. JAM Excavating Services, Inc. is committed to providing reliable and professional services to Carmel, helping to build and maintain the community's infrastructure.",
+        "localContext": "Carmel, Indiana, known for its upscale 1980s-2000s developments, requires meticulous excavation services to maintain its aesthetic appeal and structural integrity.",
+        "nearbyAreas": [
+          "Indianapolis",
+          "Westfield",
+          "Zionsville"
+        ]
+      },
+      {
+        "city": "Fishers",
+        "slug": "fishers-in",
+        "state": "IN",
+        "content": "JAM Excavating Services, Inc. - WBE provides expert excavation services in Fishers, Indiana, a rapidly growing city characterized by its newer, planned communities. We have a deep understanding of the construction and development landscape in Fishers and are well-versed in the local codes and regulations.\n\nOur services in Fishers include everything from site clearing and grading for new residential construction to excavation for commercial projects and infrastructure improvements. We are prepared for the specific soil conditions in the area and understand the necessity of accounting for cold winters with snow and ice. JAM Excavating Services, Inc. is dedicated to providing reliable and efficient excavation services that meet the demands of Fishers' continued growth and development.",
+        "localContext": "Fishers, Indiana, with its focus on newer 1990s-2020s planned communities, demands modern and efficient excavation techniques for its continued expansion.",
+        "nearbyAreas": [
+          "Indianapolis",
+          "Noblesville",
+          "McCordsville"
+        ]
+      },
+      {
+        "city": "Noblesville",
+        "slug": "noblesville-in",
+        "state": "IN",
+        "content": "JAM Excavating Services, Inc. - WBE is pleased to offer excavation services to the historic city of Noblesville, Indiana. From the charming Courthouse Square area to the newer residential developments, we understand the diverse needs of this community. We are familiar with the unique challenges and opportunities presented by working in a city with such a rich history.\n\nOur services in Noblesville include foundation excavation, utility installation, and site preparation for both residential and commercial projects. We also offer specialized services for older homes in the Courthouse Square area, taking extra care to preserve their historical integrity. JAM Excavating Services, Inc. is committed to providing reliable and professional excavation services to the city of Noblesville, ensuring the preservation of its past and the success of its future.",
+        "localContext": "Noblesville, Indiana, with its historic Courthouse Square area homes, requires careful and experienced excavation services to preserve its unique character.",
+        "nearbyAreas": [
+          "Fishers",
+          "Carmel",
+          "Cicero"
+        ]
+      },
+      {
+        "city": "Indianapolis",
+        "slug": "indianapolis-in",
+        "state": "IN",
+        "content": "JAM Excavating Services, Inc. - WBE is your trusted excavation contractor in Indianapolis, Indiana. As a WBE-certified company, we are committed to providing high-quality excavation services to the entire Indianapolis metropolitan area. Our team has extensive experience working on a wide variety of projects, from residential developments to large-scale commercial construction.\n\nWe offer a comprehensive range of excavation services in Indianapolis, including site preparation, foundation digging, utility trenching, and land clearing. We understand the unique challenges of working in Indianapolis, including navigating the city's infrastructure and adhering to local regulations. JAM Excavating Services, Inc. is dedicated to providing reliable, efficient, and cost-effective excavation solutions to our clients in Indianapolis.",
+        "localContext": "Indianapolis, Indiana, a major metropolitan area, requires a versatile and experienced excavation contractor to support its diverse construction needs.",
+        "nearbyAreas": [
+          "Carmel",
+          "Fishers",
+          "Greenwood"
+        ]
+      },
+      {
+        "city": "Zionsville",
+        "slug": "zionsville-in",
+        "state": "IN",
+        "content": "JAM Excavating Services, Inc. - WBE provides professional excavation services to the town of Zionsville, Indiana. We understand the unique character of Zionsville, with its charming village atmosphere and upscale residential areas. Our team is experienced in working within the specific guidelines and regulations of Zionsville, ensuring that all projects are completed to the highest standards.\n\nWe offer a full range of excavation services in Zionsville, including site preparation for new homes, foundation excavation, drainage solutions, and utility installation. We are committed to minimizing disruption to the community and preserving the natural beauty of Zionsville. JAM Excavating Services, Inc. is your reliable partner for all your excavation needs in Zionsville.",
+        "localContext": "Zionsville, Indiana, known for its village charm and upscale homes, requires excavation services that are sensitive to its aesthetic and environmental concerns.",
+        "nearbyAreas": [
+          "Carmel",
+          "Whitestown",
+          "Lebanon"
+        ]
+      },
+      {
+        "city": "Westfield",
+        "slug": "westfield-in",
+        "state": "IN",
+        "content": "JAM Excavating Services, Inc. - WBE offers comprehensive excavation services to the growing city of Westfield, Indiana. We are familiar with the rapid development and construction taking place in Westfield and are well-equipped to handle the demands of this dynamic community.\n\nOur services in Westfield include site clearing and grading for new residential and commercial projects, foundation excavation, utility installation, and drainage solutions. We understand the importance of completing projects on time and within budget, and we are committed to providing our clients with reliable and efficient service. JAM Excavating Services, Inc. is proud to be a part of the Westfield community and to contribute to its continued growth and success.",
+        "localContext": "Westfield, Indiana, experiencing rapid growth and development, relies on efficient and reliable excavation services to support its expanding infrastructure.",
+        "nearbyAreas": [
+          "Carmel",
+          "Noblesville",
+          "Sheridan"
+        ]
+      },
+      {
+        "city": "Greenwood",
+        "slug": "greenwood-in",
+        "state": "IN",
+        "content": "JAM Excavating Services, Inc. - WBE extends its expert excavation services to Greenwood, Indiana, a thriving city south of Indianapolis. We are experienced in serving both residential and commercial clients in Greenwood, understanding the diverse needs of its residents and businesses.\n\nOur services in Greenwood encompass a wide range of excavation tasks, including site preparation for new construction, foundation digging, utility trenching, and land clearing. We are dedicated to providing efficient and cost-effective solutions while adhering to all local regulations. JAM Excavating Services, Inc. is committed to contributing to the continued development and prosperity of Greenwood.",
+        "localContext": "Greenwood, Indiana, a growing suburban city, requires versatile excavation services to support its residential and commercial development.",
+        "nearbyAreas": [
+          "Indianapolis",
+          "Franklin",
+          "Bargersville"
+        ]
+      },
+      {
+        "city": "Brownsburg",
+        "slug": "brownsburg-in",
+        "state": "IN",
+        "content": "JAM Excavating Services, Inc. - WBE is pleased to provide excavation services to Brownsburg, Indiana. We understand the needs of this community, from residential developments to commercial properties. Our team is dedicated to providing reliable and efficient excavation services to meet the needs of Brownsburg's residents and businesses.\n\nOur services in Brownsburg include site preparation, foundation excavation, utility trenching, and drainage solutions. We are committed to completing projects on time and within budget, while adhering to all local regulations and safety standards. JAM Excavating Services, Inc. is proud to serve the Brownsburg community.",
+        "localContext": "Brownsburg, Indiana, a growing town with residential and commercial needs, requires dependable excavation services for various construction projects.",
+        "nearbyAreas": [
+          "Avon",
+          "Plainfield",
+          "Indianapolis"
+        ]
+      }
+    ],
+    "reviews": [
+      {
+        "name": "Sarah M.",
+        "rating": 5,
+        "service": "Site Preparation",
+        "text": "JAM Excavating did an amazing job preparing our lot for our new home in Fishers. They were prompt, professional, and the site was perfectly graded. We had some tricky soil issues, but they handled it all with ease. Highly recommend!",
+        "date": "2025-03-15"
+      },
+      {
+        "name": "David K.",
+        "rating": 5,
+        "service": "Drainage Solutions",
+        "text": "We had serious water pooling issues in our backyard after heavy rains. JAM Excavating installed a French drain system, and it completely solved the problem. The team was knowledgeable and efficient, and the price was fair. Great service!",
+        "date": "2024-11-20"
+      },
+      {
+        "name": "Emily R.",
+        "rating": 4,
+        "service": "Basement Excavation",
+        "text": "JAM Excavating excavated the basement for our home addition. The work was done quickly, but communication could have been better during the process. Overall, they did a good job, and the foundation is solid.",
+        "date": "2024-09-01"
+      },
+      {
+        "name": "Robert L.",
+        "rating": 5,
+        "service": "Pond Excavation",
+        "text": "Excellent work excavating our new retention pond. They handled the permitting process and navigated the local environmental regulations seamlessly. Very happy with the results!",
+        "date": "2025-01-10"
+      },
+      {
+        "name": "Jessica T.",
+        "rating": 5,
+        "service": "Underground Utilities",
+        "text": "JAM Excavating helped us with an emergency sewer line repair. They were out to our house within hours and had the problem fixed quickly and professionally. Lifesavers!",
+        "date": "2024-07-05"
+      },
+      {
+        "name": "Michael B.",
+        "rating": 4,
+        "service": "Excavation & Grading",
+        "text": "Good work overall. The grading was precise, and they were careful around our existing landscaping. Only minor complaint is they left some ruts in the yard, but nothing major.",
+        "date": "2024-12-28"
+      }
+    ],
+    "seo": {
+      "homepage": {
+        "title": "JAM Excavating | Indianapolis Excavation Contractor",
+        "description": "Indianapolis' leading excavation contractor. Site prep, grading, drainage, & more. WBE certified. Call today!"
+      },
+      "about": {
+        "title": "About JAM Excavating | Indianapolis, IN",
+        "description": "Learn about JAM Excavating Services, Inc. - Indianapolis WBE excavation experts. Reliable, experienced, and community-focused."
+      },
+      "services": {
+        "title": "Excavation Services | Indianapolis | JAM Excavating",
+        "description": "Comprehensive excavation services in Indianapolis: site preparation, grading, drainage, utilities, and more. Get a free quote!"
+      },
+      "contact": {
+        "title": "Contact JAM Excavating | Indianapolis, IN",
+        "description": "Contact JAM Excavating for your Indianapolis excavation project. Call +13177466320 or request a free estimate online."
+      },
+      "reviews": {
+        "title": "JAM Excavating Reviews | Indianapolis, IN",
+        "description": "Read reviews for JAM Excavating Services, Inc. - Indianapolis excavation contractor. See what our clients say about our work."
+      },
+      "service-areas": {
+        "title": "Excavation Service Areas | Indianapolis | JAM Excavating",
+        "description": "JAM Excavating provides excavation services in Indianapolis, Carmel, Fishers, Noblesville and surrounding areas. Contact us today!"
+      }
+    },
+    "companyInfo": {
+      "yearsInBusiness": 12,
+      "projectsCompleted": "800+",
+      "satisfaction": "97%",
+      "teamSize": "20+"
+    }
+  },
+  "images": {
+    "hero": "/images/hero.webp",
+    "heroResponsive": {
+      "src": "/images/hero.webp",
+      "srcset": "/images/hero-400w.webp 400w, /images/hero-800w.webp 800w, /images/hero-1200w.webp 1200w, /images/hero.webp 1376w",
+      "sizes": "100vw",
+      "width": 1376,
+      "height": 768
+    },
+    "about": "/images/about.webp",
+    "aboutResponsive": {
+      "src": "/images/about.webp",
+      "srcset": "/images/about-400w.webp 400w, /images/about-800w.webp 800w, /images/about-1200w.webp 1200w, /images/about.webp 1200w",
+      "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+      "width": 1200,
+      "height": 896
+    },
+    "services": {
+      "site-preparation": "/images/service-site-preparation.webp",
+      "excavation-and-grading": "/images/service-excavation-and-grading.webp",
+      "drainage-solutions": "/images/service-drainage-solutions.webp",
+      "pond-excavation": "/images/service-pond-excavation.webp",
+      "basement-excavation": "/images/service-basement-excavation.webp",
+      "underground-utilities": "/images/service-underground-utilities.webp",
+      "land-clearing": "/images/service-land-clearing.webp"
+    },
+    "servicesResponsive": {
+      "site-preparation": {
+        "src": "/images/service-site-preparation.webp",
+        "srcset": "/images/service-site-preparation-400w.webp 400w, /images/service-site-preparation-800w.webp 800w, /images/service-site-preparation-1200w.webp 1200w, /images/service-site-preparation.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "excavation-and-grading": {
+        "src": "/images/service-excavation-and-grading.webp",
+        "srcset": "/images/service-excavation-and-grading-400w.webp 400w, /images/service-excavation-and-grading-800w.webp 800w, /images/service-excavation-and-grading-1200w.webp 1200w, /images/service-excavation-and-grading.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "drainage-solutions": {
+        "src": "/images/service-drainage-solutions.webp",
+        "srcset": "/images/service-drainage-solutions-400w.webp 400w, /images/service-drainage-solutions-800w.webp 800w, /images/service-drainage-solutions-1200w.webp 1200w, /images/service-drainage-solutions.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "pond-excavation": {
+        "src": "/images/service-pond-excavation.webp",
+        "srcset": "/images/service-pond-excavation-400w.webp 400w, /images/service-pond-excavation-800w.webp 800w, /images/service-pond-excavation-1200w.webp 1200w, /images/service-pond-excavation.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "basement-excavation": {
+        "src": "/images/service-basement-excavation.webp",
+        "srcset": "/images/service-basement-excavation-400w.webp 400w, /images/service-basement-excavation-800w.webp 800w, /images/service-basement-excavation-1200w.webp 1200w, /images/service-basement-excavation.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "underground-utilities": {
+        "src": "/images/service-underground-utilities.webp",
+        "srcset": "/images/service-underground-utilities-400w.webp 400w, /images/service-underground-utilities-800w.webp 800w, /images/service-underground-utilities-1200w.webp 1200w, /images/service-underground-utilities.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "land-clearing": {
+        "src": "/images/service-land-clearing.webp",
+        "srcset": "/images/service-land-clearing-400w.webp 400w, /images/service-land-clearing-800w.webp 800w, /images/service-land-clearing-1200w.webp 1200w, /images/service-land-clearing.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      }
+    },
+    "gallery": [
+      "/images/gallery-0.webp",
+      "/images/gallery-1.webp"
+    ],
+    "galleryResponsive": [
+      {
+        "src": "/images/gallery-0.webp",
+        "srcset": "/images/gallery-0-400w.webp 400w, /images/gallery-0-800w.webp 800w, /images/gallery-0-1200w.webp 1200w, /images/gallery-0.webp 1200w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1200,
+        "height": 896
+      },
+      {
+        "src": "/images/gallery-1.webp",
+        "srcset": "/images/gallery-1-400w.webp 400w, /images/gallery-1-800w.webp 800w, /images/gallery-1-1200w.webp 1200w, /images/gallery-1.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      }
+    ]
+  }
+}

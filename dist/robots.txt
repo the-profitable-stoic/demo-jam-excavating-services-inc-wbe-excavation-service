@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://demo-jam-excavating-services-inc-wbe-excavation-services.dream-surge.com/sitemap-index.xml
